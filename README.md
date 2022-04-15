@@ -1,0 +1,2 @@
+# crear_listas_de_elementos
+A simple php app, that works on the desktop. And that allows you to create lists of tasks and what you need.  It is written in php.  To install and run it you must install xammp. Then you download the code and put it in the htdocs path, there you unzip it. Then you enter the folder, and add create a shortcut of the index.html icon to the desktop.  You have to turn on xammp, htdocs and then double click the icon and you're good to go.
