@@ -1,4 +1,4 @@
-# Create ists and items
+# Create lists and items
 
 A simple php application, which works on the desktop. And that allows you to create lists of tasks and what you need. It is written in php.
 
